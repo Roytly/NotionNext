@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'BLOG.ROYTLY.US.KG',
-  HEO_HERO_TITLE_4: 'Blog上线',
+  HEO_HERO_TITLE_4: '博客上线',
   HEO_HERO_TITLE_5: '阅读更多优秀文章',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
