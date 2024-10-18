@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'BLOG.ROYTLY.US.KG',
   HEO_HERO_TITLE_4: '博客上线',
-  HEO_HERO_TITLE_5: '获取更多优秀文章',
+  HEO_HERO_TITLE_5: '阅读更多优秀文章',
   HEO_HERO_TITLE_LINK: 'https://blog.roytly.us.kg',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
