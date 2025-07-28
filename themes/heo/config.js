@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.roytly.us.kg' },
+    { title: '欢迎来到我的博客', url: 'https://blog.roytly.dpdns.org' },
     { title: '访问Github主页获取更多', url: 'https://github.com/Roytly' }
   ],
 
@@ -20,10 +20,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'BLOG.ROYTLY.US.KG',
+  HEO_HERO_TITLE_3: 'BLOG.ROYTLY.DPDNS.ORG',
   HEO_HERO_TITLE_4: '博客上线',
   HEO_HERO_TITLE_5: '阅读更多优秀文章',
-  HEO_HERO_TITLE_LINK: 'https://blog.roytly.us.kg',
+  HEO_HERO_TITLE_LINK: 'https://blog.roytly.dpdns.org',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -53,7 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/Roytly',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://blog.roytly.us.kg',
+  HEO_INFO_CARD_URL3: 'https://blog.roytly.dpdns.org',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
